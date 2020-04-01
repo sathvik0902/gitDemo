@@ -5,6 +5,8 @@ import pytest
 @pytest.mark.skip
 def test_A():
     print("first file A method")
+    print("gitDemo project wit gitB")
+    print("gitDemo project wit gitB second time")
 
 @pytest.mark.xfail
 def test_B():
