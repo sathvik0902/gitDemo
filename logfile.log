@@ -1,0 +1,16 @@
+2020-03-28 06:03:13,969 : INFO : test_loging : info message :
+2020-03-28 06:03:13,979 : WARNING : test_loging : warning message :
+2020-03-28 06:03:13,979 : CRITICAL : test_loging : critical message :
+2020-03-28 06:03:13,980 : ERROR : test_loging : error message :
+2020-03-28 06:04:35,853 : INFO : test_loging : info message :
+2020-03-28 06:04:35,854 : WARNING : test_loging : warning message :
+2020-03-28 06:04:35,854 : CRITICAL : test_loging : critical message :
+2020-03-28 06:04:35,855 : ERROR : test_loging : error message :
+2020-03-28 06:05:03,786 : INFO : test_loging : info message :
+2020-03-28 06:05:03,786 : WARNING : test_loging : warning message :
+2020-03-28 06:05:03,787 : CRITICAL : test_loging : critical message :
+2020-03-28 06:05:03,787 : ERROR : test_loging : error message :
+2020-03-28 06:25:39,582 : INFO : BaseClass : madhu :
+2020-03-28 06:30:18,145 : INFO : BaseClass : madhu :
+2020-03-28 06:33:02,503 : INFO : test_update_profile : madhu :
+2020-03-28 06:36:58,865 : INFO : test_update_profile : madhu :
